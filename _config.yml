@@ -6,7 +6,7 @@ permalink: /blog/posts/:title.html
 exclude:
   - README.md
 
-host: elfjs.com
+host: howiewang.github.io/elfjs
 
 modules:
     blog:
